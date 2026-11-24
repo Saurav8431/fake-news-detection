@@ -1,0 +1,6 @@
+joblib==1.5.2
+openpyxl>=3.1,<4
+pandas>=1.5,<3
+pyarrow>=10,<22
+scikit-learn==1.7.2
+streamlit==1.51.0

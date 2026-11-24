@@ -1,0 +1,30 @@
+{
+  "language": "english",
+  "dataset": "WELFake (davanstrien/WELFake)",
+  "dataset_rows_used": 63676,
+  "train_rows": 50940,
+  "test_rows": 12736,
+  "label_mapping": {
+    "0": "fake",
+    "1": "real"
+  },
+  "accuracy": 0.9590138190954773,
+  "precision_fake": 0.9616929698708752,
+  "recall_fake": 0.9633515377982179,
+  "f1_fake": 0.9625215393452039,
+  "roc_auc": 0.99306527490115,
+  "confusion_matrix_labels": [
+    "fake",
+    "real"
+  ],
+  "confusion_matrix": [
+    [
+      6703,
+      255
+    ],
+    [
+      267,
+      5511
+    ]
+  ]
+}
